@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bahloulredj
+- 👋 Hi, I’m Mrs Amina Bahloul
 - 👀 I’m interested in data analyst, data science and ML
 - 🌱 I’m currently learning Analysing data with python
 - 💞️
